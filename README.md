@@ -4,7 +4,7 @@ Bienvenue sur mon GitHub ! Voici trois projets réalisés ou en cours de réalis
 
 ---
 
-## 📅 Septembre - Janvier 2024  
+## 📅 Septembre 2024 - Mars 2025
 ### **Développement d'Applications avec Base de Données**  
 Projet réalisé en équipe de 5 étudiants, portant sur la conception et le développement d'une application web full-stack avec gestion de base de données.
 
