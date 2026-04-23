@@ -1,6 +1,6 @@
 # Vous voulez en savoir plus sur mes projets ?
 
-Bienvenue sur mon GitHub ! Voici trois projets réalisés ou en cours de réalisation dans le cadre de mes études.
+Bienvenue sur mon GitHub ! Voici plusieurs projets réalisés ou en cours de réalisation dans le cadre de mes études.
 
 ---
 
