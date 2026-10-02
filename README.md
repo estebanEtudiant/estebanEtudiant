@@ -33,6 +33,8 @@ Stage de 9 semaines durant lequel j’ai développé une application web destin�
 * **ORM :** Prisma
 
 🔗 **[Voir le portfolio du stage](https://estebanetudiant.github.io/Portfolio_Esteban/)**
+🔗 **[Voir le projet sur GitHub](https://github.com/estebanEtudiant/Facturation/)**
+
 
 ---
 
