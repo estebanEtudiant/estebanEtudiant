@@ -1,86 +1,158 @@
-# Vous voulez en savoir plus sur mes projets ?
+# 👋 Vous voulez en savoir plus sur mes projets ?
 
-Bienvenue sur mon GitHub ! Voici plusieurs projets réalisés ou en cours de réalisation dans le cadre de mes études.
+Bienvenue sur mon GitHub !
+
+Je suis **Esteban Barthod-Malat**, étudiant en **3ᵉ année de BUT Informatique**.
+Vous trouverez ici différents projets réalisés dans le cadre de mes études, de mon stage ainsi que des projets personnels.
 
 ---
 
 ## 📅 Mai – Juillet 2025
 
-### **Stage – APF France Handicap : Application web de facturation**
+### 🎓 Stage – APF France Handicap
 
-Stage de 9 semaines durant lequel j’ai développé une application web de facturation en remplacement d’un système Excel.
+**Application web de facturation**
 
-#### 🧩 **Missions principales :**
+Stage de 9 semaines durant lequel j’ai développé une application web destinée à remplacer un système de gestion basé sur Excel.
 
-* Analyse du système existant et des besoins utilisateurs
-* Développement d’une application web (React / Node.js)
-* Mise en place d’une API REST et d’une base de données PostgreSQL
-* Génération de factures en PDF
+#### 🧩 Missions principales
+
+* Analyse du système existant et des besoins des utilisateurs
+* Conception et développement d’une application web
+* Développement d’une API REST
+* Mise en place d’une base de données PostgreSQL
+* Génération de factures au format PDF
 * Ajout de filtres, édition et suivi des factures
 * Envoi de factures par email
 
-#### ⚙️ **Technologies utilisées :**
+#### ⚙️ Technologies utilisées
+
+* **Frontend :** React, Tailwind CSS
+* **Backend :** Node.js, Express
+* **Base de données :** PostgreSQL
+* **ORM :** Prisma
+
+🔗 **[Voir le portfolio du stage](https://estebanetudiant.github.io/Portfolio_Esteban/)**
+
+---
+
+## 📅 Septembre 2024 – Mars 2025
+
+### 💻 Développement d'une application web avec base de données
+
+Projet réalisé en équipe de 5 étudiants dans le cadre du BUT Informatique.
+
+L’objectif était de concevoir et développer une application web full-stack avec une API REST et une base de données SQL.
+
+#### ⚙️ Technologies utilisées
+
+* **Frontend :** Vue.js, HTML, CSS, JavaScript
+* **Backend :** API REST
+* **Base de données :** SQL
+* **Échange de données :** JSON
+* **Méthodologie :** Agile / travail en sprints
+
+#### 🎯 Fonctionnalités principales
+
+* Création et utilisation d’une API REST
+* Communication entre frontend et backend
+* Gestion des données avec une base SQL
+* Interface web dynamique avec Vue.js
+* Présentations et démonstrations régulières des fonctionnalités
+
+---
+
+## 📅 Avril – Juin 2024
+
+### 🛒 Développement d'un site e-commerce
+
+Projet universitaire portant sur la conception d’un site e-commerce avec gestion des produits, des stocks et des commandes.
+
+#### ⚙️ Technologies utilisées
+
+* **Frontend :** HTML, CSS, JavaScript
+* **Base de données :** MySQL
+* **Authentification :** gestion des comptes utilisateurs
+* **Paiement :** intégration d’un système de paiement en ligne
+
+#### 🎯 Fonctionnalités principales
+
+* Gestion des produits et des stocks
+* Gestion des commandes
+* Création et gestion des comptes utilisateurs
+* Authentification
+* Processus d’achat et de paiement
+
+---
+
+## 📅 Avril – Juin 2024
+
+### 🎮 Jeu de plateau en Java avec IA
+
+Projet de groupe réalisé dans le cadre du BUT Informatique.
+
+Développement d’un jeu de plateau en Java utilisant la bibliothèque **Boardifier**, avec une IA développée par notre équipe.
+
+#### ⚙️ Technologies utilisées
+
+* **Langage :** Java
+* **Bibliothèque :** Boardifier
+* **Gestion de projet :** Gantt
+
+#### 🎯 Fonctionnalités principales
+
+* Développement d’une IA stratégique
+* Gestion des règles et de la logique du jeu
+* Interface en mode texte
+* Interface graphique
+* Travail collaboratif en équipe
+
+---
+
+## 🚀 Projets personnels
+
+### 🌐 404 Client Page
+
+Projet personnel de développement web.
+
+🔗 **[Voir le projet sur GitHub](https://github.com/estebanEtudiant/404ClientPage)**
+
+### 🎮 Fortnite OTI
+
+Projet personnel autour de l’écosystème gaming.
+
+🔗 **[Voir le projet sur GitHub](https://github.com/estebanEtudiant/fortniteoti)**
+
+---
+
+## 🛠️ Compétences
+
+### Langages
+
+* Java
+* Python
+* JavaScript
+* HTML / CSS
+* SQL
+* C++
+
+### Frameworks & technologies
 
 * React
+* Vue.js
 * Node.js
 * Express
-* PostgreSQL
 * Prisma
+* PostgreSQL
+* MySQL
 * Tailwind CSS
 
-🔗 **Voir le portfolio du stage :**
-[https://estebanetudiant.github.io/Portfolio_Esteban/](https://estebanetudiant.github.io/Portfolio_Esteban/)
+### Environnements
+
+* Linux / Ubuntu
+* Windows
+* Git / GitHub
 
 ---
 
-
-## 📅 Septembre 2024 - Mars 2025
-### **Développement d'Applications avec Base de Données**  
-Projet réalisé en équipe de 5 étudiants, portant sur la conception et le développement d'une application web full-stack avec gestion de base de données.
-
-#### 🔧 **Technologies utilisées :**
-- **Backend** : Création d'une API RESTful pour la gestion des requêtes HTTP et l'interaction avec une base de données SQL.
-- **Frontend** : Développement d'une interface web dynamique avec Vue.js, HTML, CSS et JavaScript pour l’affichage des données.
-- **Base de données** : SQL (interrogation, mise à jour des données).
-- **Échange de données** : JSON.
-- **Méthodologie** : Suivi Agile avec sprints et présentations régulières des avancées fonctionnelles (backend et frontend).
-
-#### 🎯 **Fonctionnalités principales :**
-- API RESTful pour interagir avec la base de données.
-- Interface utilisateur réactive développée avec Vue.js pour une expérience fluide.
-- Gestion des requêtes et des échanges de données en JSON.
-- Présentations régulières du projet avec des démonstrations fonctionnelles.
-
----
-
-## 📅 Janvier - Avril 2024  
-### **Développement d’un Site de E-commerce**  
-Projet portant sur la création d'un site de e-commerce complet avec gestion des produits, des stocks et des commandes, ainsi qu'un processus de paiement en ligne.
-
-#### 🔧 **Technologies utilisées :**
-- **Frontend** : HTML, CSS, JavaScript pour une interface utilisateur fluide et réactive.
-- **Backend** : MySQL pour la gestion des catalogues de produits, des stocks et des commandes.
-- **Sécurité** : Authentification utilisateur (inscription, connexion sécurisée).
-- **Paiement** : Implémentation d'un système de paiement en ligne.
-
-#### 🎯 **Fonctionnalités principales :**
-- Gestion des produits, des stocks et des commandes.
-- Système d’authentification sécurisé pour les utilisateurs.
-- Intégration d’un processus de paiement pour les achats en ligne.
-
----
-
-## 📅 Avril - Juin 2024  
-### **Développement d'un Jeu de Plateau en Java avec IA**  
-Projet de groupe réalisé dans le cadre d’un projet universitaire. Développement d’un jeu de plateau codé en Java utilisant la librairie "Boardifier" pour les modes texte et graphique, avec une IA créée par l’équipe.
-
-#### 🔧 **Technologies utilisées :**
-- **Langage** : Java
-- **Librairie** : Boardifier pour la gestion des modes texte et graphique.
-- **Outils de gestion de projet** : Gantt
-
-#### 🎯 **Fonctionnalités principales :**
-- Développement d’une IA stratégique pour le jeu.
-- Création d’une interface utilisateur en mode texte et graphique.
-- Gestion de projet collaborative avec des outils comme Gantt.
-
+📫 **N’hésitez pas à consulter mes dépôts pour découvrir les différents projets et leur code source.**
