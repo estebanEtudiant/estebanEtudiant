@@ -62,6 +62,9 @@ L’objectif était de concevoir et développer une application web full-stack a
 * Interface web dynamique avec Vue.js
 * Présentations et démonstrations régulières des fonctionnalités
 
+🔗 **[Voir le projet sur GitHub](https://github.com/SemihAslan123/QuanticGP/)**
+  
+
 ---
 
 ## 📅 Avril – Juin 2024
